@@ -16,9 +16,8 @@ Tailwind CSS: Apply Tailwind utility classes to style the components, ensuring t
 
 ## Contact
 
-You can Contact me on  linkedin
-
-https://www.linkedin.com/in/sohaib-ikram-629aba274/
+You can Contact me on  <a href="https://www.linkedin.com/in/sohaib-ikram249/"> linkedin
+ </a>
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
